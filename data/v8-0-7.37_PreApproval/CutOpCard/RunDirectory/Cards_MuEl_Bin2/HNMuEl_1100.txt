@@ -1,3 +1,0 @@
-leadingLepton_Pt	>	180 180 1
-ljj	|<	1340 1340 1
-ljj	|>	1020 1020 1

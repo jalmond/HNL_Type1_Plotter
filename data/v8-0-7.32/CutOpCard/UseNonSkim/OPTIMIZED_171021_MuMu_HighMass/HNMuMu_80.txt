@@ -1,3 +1,0 @@
-Njets >= 2 2 1
-Nfatjets == 0 0 1
-Nbjets_nolepveto == 0 0 1
